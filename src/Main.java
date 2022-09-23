@@ -87,7 +87,7 @@ public class Main {
         System.out.println("Вес (количество килограмм) такого спорт-завтрака " + breakfastWeighKg);
 
         // Задача 7
-        System.out.println("Задача 7");
+        System.out.println("Задача №7");
         short totalWeightReduction = 7 * 1000;
         short dayWeightReduction1 = 500;
         short dayWeightReduction2 = 250;
