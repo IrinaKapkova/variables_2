@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         // Задача 1
-        System.out.println("Задача 1");
+        System.out.println("Задача №1");
         int a = 2_122;
         byte b = 5;
         short c = 12_345;
@@ -16,7 +16,7 @@ public class Main {
         System.out.println("Значение переменной x с типом int равно " + x);
 
         // Задача 2
-        System.out.println("Задача 2");
+        System.out.println("Задача №2");
 
         float n = 27.12f;
         long m = 987678965549L;
@@ -38,7 +38,7 @@ public class Main {
         System.out.println(t);
 
         // Задача 3
-        System.out.println("Задача 3");
+        System.out.println("Задача №3");
         short numberStudents1 = 23;
         short numberStudents2 = 27;
         short numberStudents3 = 30;
@@ -50,7 +50,7 @@ public class Main {
 
 
         // Задача 4
-        System.out.println("Задача 4");
+        System.out.println("Задача №4");
         int machinePerformance = 16 / 2;
 
         System.out.println("За 20 минут машина произвела " + 20 * machinePerformance + " бутылок");
@@ -59,7 +59,7 @@ public class Main {
         System.out.println("За  1 месяц машина произвела  " + 30 * 24 * 60 * machinePerformance + " бутылок");
 
         // Задача 5
-        System.out.println("Задача 5");
+        System.out.println("Задача №5");
         int whiteForRoom = 2;
         int brownForRoom = 4;
         int totalForRoom;
@@ -72,7 +72,7 @@ public class Main {
         System.out.println("В школе, где " + rooms + " классов, нужно " + totalWhite + " банок белой краски и " + totalBrown + " банок коричневой краски");
 
         // Задача 6
-        System.out.println("Задача 6");
+        System.out.println("Задача №6");
         int weightBananas = 80;
         int weightMilk = 105;
         int weightIceCream = 100;
@@ -99,7 +99,7 @@ public class Main {
         System.out.println("В среднем ему может потребоваться для того, чтоб сбросить 7 кг " + mediumDays + " день");
 
         // Задача 8
-        System.out.println("Задача 8");
+        System.out.println("Задача №8");
         int salaryMasha = 67760;
         int salaryDenis = 83690;
         int salaryKristina = 76230;
